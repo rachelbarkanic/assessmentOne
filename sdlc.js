@@ -26,6 +26,6 @@ const design = "This is the third step in which the user experience is decided u
 
 const implementation = "This is the fourth step which you canno start until the first three steps have been completed. Coding is done here"
 
-const testingAndIntegration = "This is the fifth step in which we hand off our work to someone whose job it is to try to break it. Once it cannot be broken, the product is passed on to production"
+const testingAndIntegration = "This is the fifth step in which we hand off our work to someone whose job it is to try to break it. Once it cannot be broken, the product is passed on to production."
 
-const maintain = ""
+const maintain = "This is the final, never ending step. A piece of code is never finished and will always need to be maintained."
