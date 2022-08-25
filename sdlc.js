@@ -24,7 +24,7 @@ const analysisOfRequirements = "This is the second step in which you sit down an
 
 const design = "This is the third step in which the user experience is decided upon and what, for example, the website will look like."
 
-const implementation = ""
+const implementation = "This is the fourth step which you canno start until the first three steps have been completed."
 
 const testingAndIntegration = ""
 
