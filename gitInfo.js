@@ -52,7 +52,7 @@ let gitStatusDefinition = "A command that inspects a repository. It shows which 
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = "A command that tells git which files to track"
 
 //////////////////PROBLEM 7////////////////////
 /*
