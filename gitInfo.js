@@ -25,7 +25,7 @@ let gitHubDefinition = "An internet hosting website for developers that use git.
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = "A command that initializes a new or existing repository in the location you are at in your computer"
 
 //////////////////PROBLEM 4////////////////////
 /*
