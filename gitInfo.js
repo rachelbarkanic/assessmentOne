@@ -33,7 +33,7 @@ let gitInitDefinition = "A command that initializes a new or existing repository
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = "A command that copies an existing repository into a new directory"
 
 //////////////////PROBLEM 5////////////////////
 /*
