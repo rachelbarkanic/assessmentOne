@@ -41,7 +41,7 @@ let gitCloneDefinition = "A command that copies an existing repository into a ne
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = "A command that inspects a repository. It shows which changes have been staged, which changes have not been staged and which files git is not tracking"
 
 //////////////////PROBLEM 6////////////////////
 /*
