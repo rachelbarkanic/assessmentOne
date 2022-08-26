@@ -1,17 +1,17 @@
 //////////////////PROBLEM 1////////////////////
 /* Create a variable called 'myName' with a value that is your name as a string. */
 
-let myName = 'Rachel' 
+let myName = 'Rachel'; 
 
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
-let faveNum = 10
+let faveNum = 10;
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
-let lovesCode = true
+let lovesCode = true;
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -20,7 +20,13 @@ let lovesCode = true
   If it's not, console.log('not lucky 13').
 */
 
-//CODE HERE
+let faveNum = 10;
+
+if (faveNum = 13) {
+  console.log('lucky 13!')
+} else {
+  console.log('not lucky 13')
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
