@@ -17,7 +17,7 @@ let gitDefinition = "A version control system that allows developers to keep tra
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = "An internet hosting website for developers that use git."
 
 //////////////////PROBLEM 3////////////////////
 /*
