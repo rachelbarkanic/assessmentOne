@@ -53,6 +53,7 @@ let gitStatusDefinition = "A command that inspects a repository. It shows which 
 */
 
 let gitAddDefinition = "A command that tells git which files to track"
+let gitAddCode = "git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,7 +64,8 @@ let gitAddDefinition = "A command that tells git which files to track"
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = "A command that creates a snapshot of files being tracked."
+let gitCommitCode = 'git commit -m"initial commit"'
 
 
 //////////////////PROBLEM 8////////////////////
