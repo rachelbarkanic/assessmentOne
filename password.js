@@ -1,7 +1,7 @@
-let password = "Meowmeow123!"
+let password = "Meowmeow";
 
-if (password.length > 10 && /[a-zA-Z]/.test(str)) {
-console.log('Success')
+if (password.length > 10 && /[a-zA-Z]/.test(password) && /\d/.test(password)) {
+console.log('Success');
 } else {
-    console.log('Fail')
+    console.log('Fail');
 }
